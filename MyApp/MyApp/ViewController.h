@@ -11,5 +11,6 @@
 @interface ViewController : UIViewController
 @property (strong, nonatomic) IBOutlet UILabel *lblSecond;
 @property (strong, nonatomic) IBOutlet UILabel *lblFirst;
+@property (strong, nonatomic) IBOutlet UILabel *lblThird;
 
 @end
